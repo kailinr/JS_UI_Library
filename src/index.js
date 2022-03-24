@@ -31,4 +31,3 @@ const button = document.querySelector('.snackbar-trigger');
 button.addEventListener('click', () => {
   snackbar.show('You clicked a snackbar!');
 });
-
